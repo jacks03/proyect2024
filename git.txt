@@ -1,0 +1,17 @@
+git init
+git branch -m main
+git status
+
+abrir VsCode y crear nuevo ar chivo
+
+git add . 
+git commit -m "bla bla bla"
+
+git remote add orirgi https://github/........
+git remote -v  (para ver que está enlazado)
+"si quieres hacerlo de nuevo solo debes hacer esto"
+git status
+git add . 
+git commit -m "bla bla bla"
+
+
