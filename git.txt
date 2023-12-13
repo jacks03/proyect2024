@@ -9,9 +9,11 @@ git commit -m "bla bla bla"
 
 git remote add orirgi https://github/........
 git remote -v  (para ver que está enlazado)
-"si quieres hacerlo de nuevo solo debes hacer esto"
+"si quieres hacerlo de nuevo para guardar , solo debes hacer esto"
 git status
 git add . 
 git commit -m "bla bla bla"
 
 
+8:44
+yarn dev
