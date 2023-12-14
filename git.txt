@@ -13,7 +13,12 @@ git remote -v  (para ver que está enlazado)
 git status
 git add . 
 git commit -m "bla bla bla"
-
+git push origin main
 
 8:44
+25:40  14/12/2023
 yarn dev
+
+ideas para layouts o diseño de la pagina
+
+https://es.wix.com/blog/2020/05/los-mejores-patrones-de-diseno-web/#viewer-8ar4g
