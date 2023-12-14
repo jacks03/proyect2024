@@ -7,11 +7,13 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+      colors: {
+        /** ponemos el color de nuestro gusto 
+         * en este caso seria el codigo de abajo
+         * cada vez que pongamos primary en classname 
+         * se pondra el color de abajo muy util */
+        primary: '#f13a01'
+      }
     },
   },
   plugins: [],
