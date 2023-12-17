@@ -17,6 +17,7 @@ git push origin main
 
 8:44
 25:40  14/12/2023
+41:10  16/12/2023
 yarn dev
 
 ideas para layouts o diseño de la pagina
