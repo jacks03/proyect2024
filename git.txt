@@ -20,7 +20,22 @@ git push origin main
 41:10       16/12/2023
 53:57       17/12/2023
 1:40:42     20/12/2023
+1:49:47     25/12/2023
+1:51:11     25/12/2023
 yarn dev
+
+#username
+#food-ordering
+#password
+#0ymdpiUrvcPHONQx
+MONGO_URL="mongodb+srv://food-ordering:<password>@cluster0.bicesbt.mongodb.net/"
+
+nota instalar: yarn add mongoose 
+al parecer tiene un problema grande que la unica solucion es instalar de nuevo cada vez que inicie?
+ Tener que hacer una revision de next js por siacaso instalar de nuevo y revisa el mongo db
+yarn add next-auth
+Observacion: Mira el .env
+
 
 ideas para layouts o diseño de la pagina
 

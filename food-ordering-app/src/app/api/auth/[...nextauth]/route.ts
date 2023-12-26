@@ -1,5 +1,5 @@
-import NextAuth from "next-auth"
-import CredentialsProvider from "next-auth/providers/credentials"
+import NextAuth from "next-auth";
+import CredentialsProvider from "next-auth/providers/credentials";
 
 
 const handler = NextAuth({
@@ -12,7 +12,7 @@ const handler = NextAuth({
             // p.ej. dominio, nombre de usuario, contraseña, token 2FA, etc.
             // Puedes pasar cualquier atributo HTML a la etiqueta <input> a través del objeto.
             credentials: {
-              username: { label: "Email", type: "email", placeholder: "test@gmail.com" },
+              username: { label: "Email", type: "email", placeholder: "test@example.com" },
               password: { label: "Password", type: "password" }
             },
             async authorize(credentials, req) {
