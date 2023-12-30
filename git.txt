@@ -22,6 +22,12 @@ git push origin main
 1:40:42     20/12/2023
 1:49:47     25/12/2023
 1:51:11     25/12/2023
+https://youtu.be/nGoSP3MBV2E?si=E3US1bZjKPLwNLfO&t=6671
+1:54:58     26/12/2023
+https://youtu.be/nGoSP3MBV2E?si=dJT_fMBoBnOzNOAt&t=6898
+2:08:10     29/12/2023
+https://youtu.be/nGoSP3MBV2E?si=_y50t50uMoZY5M65&t=7690
+
 yarn dev
 
 #username
