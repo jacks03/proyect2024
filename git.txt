@@ -10,6 +10,7 @@ git commit -m "bla bla bla"
 git remote add orirgi https://github/........
 git remote -v  (para ver que está enlazado)
 "si quieres hacerlo de nuevo para guardar , solo debes hacer esto"
+/**/
 git status
 git add . 
 git commit -m "bla bla bla"
@@ -27,6 +28,14 @@ https://youtu.be/nGoSP3MBV2E?si=E3US1bZjKPLwNLfO&t=6671
 https://youtu.be/nGoSP3MBV2E?si=dJT_fMBoBnOzNOAt&t=6898
 2:08:10     29/12/2023
 https://youtu.be/nGoSP3MBV2E?si=_y50t50uMoZY5M65&t=7690
+2:09:39     30/12/2023
+https://youtu.be/nGoSP3MBV2E?si=y86lH0Dk3AOHnpYX&t=7779
+2:13:49     31/12/2023
+https://youtu.be/nGoSP3MBV2E?si=AeX0dLUDFy37EaDd&t=8029
+2:45:31     01/01/2024
+https://youtu.be/nGoSP3MBV2E?si=YA_mBSL7SuAfnXlt&t=9932
+terminacion de autenticacion
+
 
 yarn dev
 
